@@ -1,11 +1,11 @@
 #Headline
 
-x <- rnorm(200)
-y <- rnorm(300)
+x <- rnorm(500)
+y <- rnorm(600)
 
 # Important feature
 
-#New feature
+#New feature - adding something
 
 # Crazy stuff
 
